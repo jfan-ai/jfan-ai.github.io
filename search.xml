@@ -4,11 +4,38 @@
   
     
     <entry>
+      <title>三大核心计算-定积分</title>
+      <link href="/2025/07/16/%E4%B8%89%E5%A4%A7%E6%A0%B8%E5%BF%83%E8%AE%A1%E7%AE%97-%E5%AE%9A%E7%A7%AF%E5%88%86/"/>
+      <url>/2025/07/16/%E4%B8%89%E5%A4%A7%E6%A0%B8%E5%BF%83%E8%AE%A1%E7%AE%97-%E5%AE%9A%E7%A7%AF%E5%88%86/</url>
+      
+        <content type="html"><![CDATA[<span id="more"></span><h1 id="定积分的性质"><a href="#定积分的性质" class="headerlink" title="定积分的性质"></a>定积分的性质</h1><h2 id="线性性质"><a href="#线性性质" class="headerlink" title="线性性质"></a>线性性质</h2><p><img src="/../images/image-20250716212421178.png" alt="image-20250716212421178"></p><h2 id="不等式性质"><a href="#不等式性质" class="headerlink" title="不等式性质"></a>不等式性质</h2><p><img src="/../images/image-20250716212534174.png" alt="image-20250716212534174"></p><h2 id="对称性"><a href="#对称性" class="headerlink" title="对称性"></a>对称性</h2><h1 id="定积分的计算"><a href="#定积分的计算" class="headerlink" title="定积分的计算"></a>定积分的计算</h1><h2 id="牛顿莱布尼兹公式"><a href="#牛顿莱布尼兹公式" class="headerlink" title="牛顿莱布尼兹公式"></a>牛顿莱布尼兹公式</h2><h2 id="定积分换元"><a href="#定积分换元" class="headerlink" title="定积分换元"></a>定积分换元</h2><h2 id="定积分分部积分"><a href="#定积分分部积分" class="headerlink" title="定积分分部积分"></a>定积分分部积分</h2><p><img src="/../images/image-20250716212749666.png" alt="image-20250716212749666"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">抽象函数积分 用分部积分</span><br></pre></td></tr></table></figure><h2 id="区间在线"><a href="#区间在线" class="headerlink" title="区间在线"></a>区间在线</h2><p><img src="/../images/image-20250716212855891.png" alt="image-20250716212855891"></p><p><img src="/../images/image-20250716212910907.png" alt="image-20250716213004624"></p><p><img src="/../images/image-20250716213028100.png" alt="image-20250716213028100"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">最后能用 x = t + 二分之派 换元 得到对称区间积分 利用奇偶性化简</span><br></pre></td></tr></table></figure><h2 id="华里式公式"><a href="#华里式公式" class="headerlink" title="华里式公式"></a>华里式公式</h2><p><img src="/../images/image-20250716213350159.png" alt="image-20250716213350159"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高数 </tag>
+            
+            <tag> 三大核心计算 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>每日任务</title>
       <link href="/2025/07/16/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
       <url>/2025/07/16/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/</url>
       
-        <content type="html"><![CDATA[<p>每天鞭策必须完成！！！一旦懈怠就会习以为常，自甘堕落…</p><span id="more"></span><p>1.一道leetcode</p><p>2.学java</p><p>3.背100个英语单词</p><p>4.学考研数学</p><p>5.睡前学一个小时政治</p>]]></content>
+        <content type="html"><![CDATA[<p>每天鞭策必须完成！！！一旦懈怠就会习以为常，自甘堕落…</p><span id="more"></span><p>1.一道leetcode</p><p>2.学java</p><p>3.背100个英语单词</p><p>4.学考研数学(包括两道极限，两道积分)</p><p>5.睡前学一个小时政治</p>]]></content>
       
       
       <categories>
